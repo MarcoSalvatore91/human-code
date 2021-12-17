@@ -1,0 +1,21 @@
+Start
+
+1 - DIRIGERSI VERSO LO SCANNER
+
+2 - APRIRE IL COPERCHIO
+    
+3 - **SE** CI SONO FOGLI
+
+        - SE FOGLIO FRONTE - RETRO
+            - POGGIAMO FRONTE PAGINA
+            - AVVIO SCANSIONE
+            - POGGIAMO RETRO PAGINA
+            - AVVIO SCANSIONE
+
+        - **ALTRIMENTI**
+            -POGGIAMO FRONTE PAGINA
+            -AVVIO SCANSIONE
+            
+        - **ALTRIMENTI**
+
+4 - END
